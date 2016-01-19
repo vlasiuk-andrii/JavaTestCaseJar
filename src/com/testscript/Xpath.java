@@ -7,6 +7,7 @@ package com.testscript;
         import org.openqa.selenium.*;
         import org.openqa.selenium.firefox.FirefoxDriver;
         import org.openqa.selenium.support.ui.Select;
+        import java.util.ArrayList;
 
 public class Xpath {
     private WebDriver driver;
